@@ -1,1 +1,1 @@
-Hi, my name is hailey.
+Algorithm study!!
