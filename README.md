@@ -1,3 +1,1 @@
-Algorithm_study
-Baekjoon_and_Programmers_and_etc..
-Python3
+Hi, my name is hailey.\n
